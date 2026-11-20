@@ -1,0 +1,12 @@
+Projeto feito no site https://simulador.techrib.com.br/app
+
+Falta adicionar o Sensor de umidade
+
+Legenda
+
+Branco - Dados
+Vermelo - 5V
+Amarelo - 12V
+Laranja - 24V
+Preto - Ground
+
